@@ -1,0 +1,6 @@
+{
+  "name": "CloudGuard AI - Multi-Cloud Security Assessment Platform",
+  "description": "An AI-assisted multi-cloud security configuration and audit platform for AWS, Azure, and Google Cloud with automated CIS compliance checks, vulnerability evidence, and Gemini-powered remediation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
